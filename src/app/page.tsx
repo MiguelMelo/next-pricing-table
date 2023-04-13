@@ -58,7 +58,7 @@ export default function Home() {
         <div className="flex justify-between items-center mt-2">
           <h1 className="text-2xl font-bold text-gray-50">Ultimate</h1>
           <p className="text-lg font-normal text-gray-50">
-            R$ <span className="text-2xl font-bold">19,97</span>
+            R$ <span className="text-2xl font-bold">29,97</span>
             <span className="font-bold">/mês</span>
           </p>
         </div>
